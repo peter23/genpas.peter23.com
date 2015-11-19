@@ -1,0 +1,3 @@
+Host: genpas.peter23.com
+User-agent: *
+Allow: /

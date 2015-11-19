@@ -1,0 +1,43 @@
+#pass {
+	font-family: monospace;
+	font-weight: bold;
+	font-size: 1.2em;
+	padding: 10px;
+	border: 1px #000000 solid;
+	float: left;
+	line-height: 150%;
+	display: none;
+}
+
+#diventropy {
+	border: 1px #000000 solid;
+	background-color: rgb(255,255,225);
+	text-align: center;
+	width: 600px;
+	margin-bottom: 20px;
+	display: none;
+}
+
+#pass_cmnt {
+	margin-bottom: 20px;
+}
+
+#counter {
+	font-weight: bold;
+}
+
+.inpblock {
+	display: table-cell !important;
+	display: inline; /* для IE */
+	padding-right: 15px;
+}
+
+.divblock {
+	display: table;
+	margin-bottom: 18px;
+}
+
+#genbutton {
+	font-weight: bold;
+	font-size: 1em;
+}
